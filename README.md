@@ -31,5 +31,5 @@ I recently completed a technical internship at **@CodeAlpha**, where I developed
 * **Environments:** Isolated Lab Networks, HP Victus Security Setup
 
 ## 📫 Connect with me:
-* **LinkedIn:** [Insert Your LinkedIn Profile Link]
+* **LinkedIn:** [https://www.linkedin.com/in/mohammed-alghurbani/]
 * **Location:** United Arab Emirates 🇦🇪
